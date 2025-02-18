@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.4.5",
+    "@mui/styled-engine-sc": "^6.4.3",
+    "@mui/x-charts": "^7.27.0",
+    "axios": "^1.7.9",
+    "components": "^0.1.0",
+    "styled": "^1.0.0",
+    "styled-components": "^6.1.14"
+  },
+  "devDependencies": {
+    "eslint": "^9.20.1",
+    "prettier": "^3.5.1"
+  }
+}

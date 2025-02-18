@@ -19,7 +19,6 @@ app.use("/expenses",expenseRoute)
 
 
 
-
 //DB CONNECTION
 
 mongoose.connect(process.env.DB_CONNECTION).then(() =>{

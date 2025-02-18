@@ -1,0 +1,6 @@
+{
+    "javascript.suggest.autoImports": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true
+  }
+  
